@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    
+}
+
+header li {
+    background-color: rgba(0, 0, 255, 0.404) ;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-block;
+    padding: 0 20px;
+    width: auto;
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    
+}
+
+ a {
+    color: black;
+   
+ }
+
